@@ -6,7 +6,7 @@ let products=[
     {
         "id" : 1,
         "name" : 'Laptop',
-        "price" : 3000,
+        "price" : 5000,
     }
 ]
 
